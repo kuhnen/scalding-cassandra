@@ -9,13 +9,11 @@ Inspired by:
 
 ## Install
 
-Build the Maven project and use the dependency
+Build the sbt with assembly and use the dependency
+
 ```
-<dependency>
- <groupId>com.sonar</groupId>
- <artifactId>scalding-cassandra</artifactId>
- <version>1.0-SNAPSHOT</version>
-</dependency>
+TODO
+
 ```
 
 Beware of:
